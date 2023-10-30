@@ -190,7 +190,7 @@
             </div>
         </div>
         <!---- end home-subcribe ---->
-<!----------------------------Footer---------------------------------->
+<!---------------------------Footer---------------------------------->
         <footer id="footer">
             <div class="footer-container col">
                 <div class="scoll-btn-wrapper">
